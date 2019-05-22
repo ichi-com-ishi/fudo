@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="新潟の四季　風土　アクセス方法はこちら。 ランチやディナーはもちろん結婚式の二次会や貸切パーティーまで幅広く対応いたします。まずは、お電話下さい。ご予約お待ちしております。" />
+<title>新潟の四季　風土｜スタッフ募集</title>
+<meta name="keywords" content="新潟の四季,風土,ふうど,フウド,燕三条,県央,結婚式,二次会,パーティー" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/gnav.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+<header>
+    <div id="mainimg">
+    	<h1><img src="images/top/page_image_staff.png" alt="新潟の四季　風土スタッフ募集" width="1200" height="200"></h1>
+    </div>
+<!--#include virtual="/include/gnav.txt"-->
+</header>
+
+<article>
+<section>
+<div class="staffcontent">
+<h2>
+新潟の四季　風土で一緒に働きませんか？<br>
+「好奇心旺盛な方」、「前向きな方」、「素直な方」、そしてなにより「笑顔が素敵な方」、そんなあなたを求めています。<br>
+先輩も優しく丁寧に指導いたします。お気軽にお問合せ下さい。<br><br>
+</h2>
+<table class="staffinfo">
+<tr>
+	<th>職　　　種</th>
+	<td>正社員、パート、 アルバイト</td>
+</tr>
+<tr>
+	<th>給　　　与</th>
+	<td>■正社員・料理人：給与19万5千円～<br>※3年程度の経験者優遇　※まかない付き<br>
+    ■パート、 アルバイト<br>
+    高校生/時給920円～<br>
+    専門・一般/時給950円～<br>
+    ※研修期間（回数による）は時給850円</td>
+</tr>
+<tr>
+<th>勤務時間</th>
+	<td>■正社員／17:00～23:00<br>■パート、 アルバイト／17:00～23:00<br>1日3h～、週1日～OK<br>時間・曜日応相談。 学校帰りのシフトも考慮可能です。
+	</td>
+</tr>
+<tr>
+	<th>対　　　象</th>
+	<td>未経験者歓迎、経験者優遇</td>
+</tr>
+<tr>
+<th>応募方法</th>
+	<td>まずはお気軽にお電話下さい。TEL.0256-64-8062<br>
+		応募後、 履歴書をご持参のうえ面接日にご来店下さい。<br>
+		※17:00～23:00の時間にお掛け下さい。<br>
+		［ 担　　当 ］　草　　野
+	</td>
+</tr>
+</table>
+</div>　　　　　　　　
+</section>
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [ {
+		"@type": "ListItem",
+		"position": 1,
+		"item": {
+			"@id": "niigata-food-g.com/",
+			"name": "新潟の四季 風土｜公式ページ　大規模宴会可"
+		}
+	}
+		,{
+		"@type": "ListItem",
+		"position": 2,
+		"item": {
+			"@id": "niigata-food-g.com/staff/",
+			"name": "スタッフ募集"
+		}
+	}
+
+
+ ]
+}</script>
+</body>
+</html>

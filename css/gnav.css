@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* グローバルナビスタイル */
+.gnavstyle {
+	border-left:1px solid #0b2c67;
+	border-bottom:3px double #0b2c67;
+}
+
+.gnavstyle2 {
+	border-left:1px solid #0b2c67;
+	border-right:1px solid #0b2c67;
+	border-bottom:3px double #0b2c67;
+}

@@ -1,0 +1,381 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 共通 */
+#wrap {
+  width: 1200px;
+  margin: 0 auto;
+  font-size:100%;
+  background: #ffffff;
+}
+
+.center {
+	text-align: center;
+}
+
+hr.style-one {
+width:78%;
+border: 0;
+height: 1px;
+margin-top:20px;
+margin-bottom:20px;
+background: #333;
+background-image:-webkit-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-moz-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-ms-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+hr.style-two {
+width:80%;
+border: 0;
+height: 1px;
+margin-top:40px;
+background: #333;
+background-image:-webkit-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-moz-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-ms-linear-gradient(left, #ccc, #333, #ccc);
+background-image:-o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+#big {
+	font-size:150%;
+	text-align: center;
+	line-height:1.3em;
+}
+
+/* メインナビ */
+.globalNav {
+  list-style: none;
+  overflow: hidden;
+	font-weight: bold;
+	text-align: center;
+	margin-left:50px;
+}
+
+.globalNav li {
+	list-style: none;
+	float: left;
+}
+
+.globalNav li a {
+    display: block;
+    padding: 10px 71px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+}
+
+.globalNav li a span {
+    display: block;
+    margin: 3px 0 0 0;
+    color: #AAA;
+    text-transform: uppercase;
+    font-size: 80%;
+    letter-spacing: 1px;
+}
+
+.globalNav li a:hover {
+    background: #0b2c67;
+	color:#fff;
+}
+
+.globalNav li.active a {
+    background: #333;
+    color: #EEE;
+}
+
+/* メインコンテンツ */
+
+.tel-bnr {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.flex-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 70px;
+	margin-left: 105px;
+	margin-right: 105px;
+	margin-bottom: 30px;
+}
+
+.flex-list2 {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 30px;
+	margin-left: 105px;
+	margin-right: 105px;
+	margin-bottom: 25px;
+}
+
+.flex-list img {
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.4);
+}
+
+.flex-list2 img {
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.4);
+}
+
+.flex-list-bana {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 70px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.contents3 {
+    text-align: right;
+	margin-top: 50px;
+	margin-right: 125px;
+}
+
+/* フッター */
+footer{
+    text-align: center;
+	padding: 30px;
+	font-size:90%;
+}
+
+address {
+    text-align: center;
+	margin-bottom:30px;
+	color:#fff;
+	font-size:80%;
+}
+
+nav.bottomnav{
+	text-align: center;
+	padding: 30px;
+	font-size:90%;
+}
+
+.bottomnav {
+	margin-bottom: 30px;
+	font-size:90%;
+}
+
+.bottomnav a {
+	text-decoration: none;
+	padding: 15px;
+}
+
+.footerinfo {
+	text-align: left;
+	width: 1200px;
+	color:#fff;
+	font-size:100%;
+	margin: 0 auto;
+	line-height:1.3em;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+/* メニューページ */
+.menutitle {
+	padding-left: 40px;
+}
+
+.menulayout p {
+    text-align: center;
+	margin-top: 8px;
+}
+
+.flex-list-menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 50px;
+	margin-left: 110px;
+	margin-right: 110px;
+    font-size: 80%;
+}
+
+.flex-list-menu img {
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.4);
+}
+
+/* シャドー無し */
+.flex-list-menu2 {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 50px;
+	margin-left: 110px;
+	margin-right: 110px;
+    font-size: 80%;
+ }
+
+#grandmenuitem {
+	margin-top: 50px;
+	margin-left: 120px;
+    font-size: 95%;
+}
+
+.grandmenu-menu {
+	clear: both;
+	margin-top: 10px;
+	line-height:1.5em;
+}
+
+.grandmenulayout {
+    list-style: none;
+}
+
+.textmenu {
+    margin-top: 40px;
+    margin-left: 120px;
+	line-height:1.3em;
+}
+
+.textmenu td {
+	width: 500px;
+}
+
+.textmenu p {
+    font-size: 80%;
+}
+
+/* ドリンクページ */
+#drinkimage {
+	float:right;
+	width:400px;
+	margin-right:50px;
+	margin-bottom:20px;
+}
+
+#drinkitem {
+	margin-top: 50px;
+	margin-left: 120px;
+    font-size: 95%;
+}
+
+.drinktitle {
+	margin-top: 20px;
+	padding:5px;
+    font-size: 120%;
+    font-weight:bold;
+}
+
+.drink-menu {
+	margin-top: 10px;
+	line-height:1.5em;
+}
+
+.drinklayout {
+    list-style: none;
+}
+
+/* パーティーページ */
+video {
+	margin-top: 50px;
+	margin-left: 130px;
+}
+
+.plan-menu {
+    text-align: center;
+	margin-top: 50px;
+}
+
+#partyplan1 {
+	float:right;
+	margin-right: 80px;
+	margin-top: 50px;
+}
+
+/* アクセスページ */
+.pageaccess {
+    text-align: left;
+	line-height:2em;
+	padding: 50px;
+	margin-left: 70px;
+}
+
+#papurikamap {
+    text-align: center;
+	height:400px;
+	padding-bottom:30px;
+}
+
+.sitemap {
+	text-align: left;
+	padding:30px;
+    font-size: 90%;
+}
+
+.sitemap li {
+	list-style: none;
+	width:500px;
+}
+
+.sitemap li a {
+    display: block;
+    padding: 15px 15px;
+    text-align: left;
+    text-decoration: none;
+    color: #333;
+}
+
+/*スタッフ募集ページ　ぱぷりか・味我駆　共通*/
+.staffcontent {
+    text-align: center;
+    line-height: 1.8em;
+}
+
+.staffcontent h2 {
+	padding-top: 40px;
+}
+
+.staffinfo {
+	border-collapse: collapse;
+    text-align: left;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+
+.staffinfo th {
+    border: 1px solid #000000;
+	padding: 10px 20px;
+	background: #add8e6;
+}
+
+.staffinfo td {
+    border: 1px solid #000000;
+	padding: 5px 20px;
+	background: #ffffff;
+}
+
+
+/* 味我駆ページ */
+.flex-list-migaku {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.flex-list-migaku2 {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.flex-list-migaku img {
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.4);
+}
+
+#migakumap {
+    text-align: center;
+	height:400px;
+	padding-bottom:30px;
+}

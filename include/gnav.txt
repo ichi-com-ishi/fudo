@@ -1,0 +1,9 @@
+﻿<nav class="globalNav">
+  <ul>
+    <li class="gnavstyle"><a href="/">ホーム</a></li>
+    <li class="gnavstyle"><a href="/menu">お料理</a></li>
+    <li class="gnavstyle"><a href="/drink">ドリンク</a></li>
+    <li class="gnavstyle"><a href="/access">アクセス</a></li>
+    <li class="gnavstyle2"><a href="http://niigata-food-g.com/migaku">姉妹店ラーメン味我駆</a></li>
+  </ul>
+</nav>

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="燕三条の洋食居酒屋　県央バルぱぷりか デザートメニューのご紹介。 ランチやディナー、結婚式の二次会や貸切パーティーまで幅広く対応いたします。" />
+<title>燕三条の洋食居酒屋　県央バルぱぷりか｜デザートメニュー</title>
+<meta name="keywords" content="ぱぷりか,県央,バル,燕,三条,結婚式,二次会,パーティー,パプリカ,デザート" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/gnav.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+<header>
+    <div id="mainimg">
+    	<img src="images/top/page_image_lunch.png" alt="県央バルぱぷりかランチ" width="1200" height="200">
+    </div>
+
+<!--#include virtual="/include/gnav.txt"-->
+
+</header>
+
+<article>
+<section>
+	<ul class="flex-list-menu2">
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_sutekidon.png" alt="ステーキ丼" width="" height=""></li>
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_omuraisu.png" alt="オムライス" width="" height=""></li>
+	</ul>
+	<ul class="flex-list-menu2">
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_pasta.png" alt="パスタ" width="" height=""></li>
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_pirafu.png" alt="ピラフ" width="" height=""></li>
+	</ul>
+	<ul class="flex-list-menu2">
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_pizza.png" alt="ピザ・ホットサンド" width="" height=""></li>
+		<li class="menulayout"><img src="images/lunch/grandmenu_lunch_rokomoko.png" alt="ロコモコ" width="" height=""></li>
+	</ul>
+</section>
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+</body>
+</html>

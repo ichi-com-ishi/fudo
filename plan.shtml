@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="新潟の四季　風土 コース料理のご紹介。結婚式の二次会や貸切パーティーまで幅広く対応いたします。ご予約お待ちしております。" />
+<title>新潟の四季　風土｜飲み放題コース</title>
+<meta name="keywords" content="新潟の四季,風土,ふうど,フウド,燕三条,県央,結婚式,二次会,パーティー" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/gnav.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+<header>
+    <div id="mainimg">
+    	<h1><img src="images/top/page_image_plan2.png" alt="「新潟の四季　風土」の飲み放題コース" width="1200" height="200"></h1>
+    </div>
+<!--#include virtual="/include/gnav.txt"-->
+</header>
+
+<article>
+<section>
+	<div class="plan-menu">
+    	<!-- <img src="images/plan/plan_nomihoudai_title.png" alt="新潟の四季　風土飲み放題プラン" width="950" height="128">
+    	<img src="images/plan/plan_nomi2.png" alt="新潟の四季　風土季節プラン" width="950" height="100"> -->
+    	<img src="images/plan/plan_main2.png" alt="2時間飲み放題付きコース2名様以上で前日までにご予約ください。お一人様4,500円より。" width="950">
+	</div>
+	<!-- <ul class="flex-list-menu2">
+		<li class="menulayout"><img src="images/drink/drink_nomihoudai1.png" alt="飲み放題アルコール" width="" height=""></li>
+		<li class="menulayout"><img src="images/drink/drink_nomihoudai2.png" alt="飲み放題ノンアルコール" width="" height=""></li>
+	</ul> -->
+</section>
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [ {
+		"@type": "ListItem",
+		"position": 1,
+		"item": {
+			"@id": "niigata-food-g.com/",
+			"name": "新潟の四季 風土｜公式ページ　大規模宴会可"
+		}
+	}
+		,{
+		"@type": "ListItem",
+		"position": 2,
+		"item": {
+			"@id": "niigata-food-g.com/plan/",
+			"name": "飲み放題コース"
+		}
+	}
+ ]
+}</script>
+
+</body>
+</html>

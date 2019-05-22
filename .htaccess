@@ -1,0 +1,28 @@
+# 圧縮設定
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME}\.gz -s
+RewriteRule ^(.+) $1.gz
+
+<FilesMatch "\.css\.gz$">
+  ForceType text/css
+  AddEncoding x-gzip .gz
+</FilesMatch>
+<FilesMatch "\.js\.gz$">
+  ForceType application/x-javascript
+  AddEncoding x-gzip .gz
+</FilesMatch>
+
+Header append Vary Accept-Encoding env=!dont-vary
+
+# キャッシュ設定
+
+ExpiresActive On
+ExpiresByType text/css "access plus 10 month"
+ExpiresByType image/gif "access plus 10 month"
+ExpiresByType image/jpg "access plus 10 month"
+ExpiresByType image/jpeg "access plus 10 month"
+ExpiresByType image/png "access plus 10 month"
+ExpiresByType text/js "access plus 10 month"
+ExpiresByType text/javascript "access plus 10 month"
+ExpiresByType application/javascript "access plus 10 month"
+ExpiresByType application/x-javascript "access plus 10 month"

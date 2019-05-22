@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="磨きの町のラーメン屋,味我駆,ミガク,みがく ,南吉田,ラーメン へのアクセス方法はこちらです "
+    />
+    <title>磨き町のラーメン屋　味我駆（みがく ）</title>
+    <meta
+      name="keywords"
+      content="磨きの町のラーメン屋,味我駆,ミガク,みがく ,南吉田,ラーメン"
+    />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!--#include virtual="/include/g_anal.txt"-->
+  </head>
+
+  <body style="background-color: #800000;">
+    <div id="wrap">
+      <header>
+        <div id="mainimg">
+          <img
+            src="images/migaku/page_image_migaku_staff.png"
+            alt="味我駆 （ミガク ）スタッフ募集"
+            width="1200"
+            height="200"
+          />
+        </div>
+      </header>
+
+      <article>
+        <section>
+          <div class="staffcontent">
+            <h1></h1>
+            <table class="staffinfo">
+              <tr>
+                <th>職　　　種</th>
+                <td>パート、 アルバイト</td>
+              </tr>
+              <tr>
+                <th>給　　　与</th>
+                <td>
+                  時給820円～<br />※研修期間中／時給780円<br />※まかない付き
+                </td>
+              </tr>
+              <tr>
+                <th>勤務時間</th>
+                <td>
+                  9:00～21:30<br />1日3h～、週1日～OK<br />時間・曜日応相談。
+                  学校帰りのシフトも考慮可能です。
+                </td>
+              </tr>
+              <tr>
+                <th>対　　　象</th>
+                <td>未経験者歓迎、経験者優遇</td>
+              </tr>
+              <tr>
+                <th>応募方法</th>
+                <td>
+                  まずはお気軽にお電話下さい。TEL.0256-77-8828<br />
+                  応募後、 履歴書をご持参のうえ面接日にご来店下さい。<br />
+                  ※10:00～21:30の時間にお掛け下さい。<br />
+                  ［ 担　　当 ］　岡　　村
+                </td>
+              </tr>
+            </table>
+          </div>
+        </section>
+      </article>
+
+      <hr class="style-two" />
+
+      <nav class="bottomnav">
+        <a href="http://niigata-food-g.com">▶ 新潟の四季 風土トップページへ</a>
+        <a href="/migaku">▶ ラーメン味我駆トップページへ</a>
+        <a href="/migaku_access">▶ ラーメン味我駆へのアクセス</a>
+      </nav>
+    </div>
+
+    <!--#include virtual="/include/mgk_foot.html"-->
+  </body>
+</html>

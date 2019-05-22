@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="磨きの町のラーメン屋,味我駆,ミガク,みがく ,南吉田,ラーメン "
+    />
+    <title>磨き町のラーメン屋　味我駆（みがく ）</title>
+    <meta
+      name="keywords"
+      content="磨きの町のラーメン屋,味我駆,ミガク,みがく ,南吉田,ラーメン"
+    />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!--#include virtual="/include/g_anal.txt"-->
+    <!-- jQuery library (served from Google) -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <!-- bxSlider Javascript file -->
+    <script src="js/jquery.bxslider.min.js"></script>
+
+    <link href="css/jquery.bxslider.css" rel="stylesheet" />
+  </head>
+
+  <body style="background-color: #800000;">
+    <div id="wrap">
+      <header>
+        <div id="mainimg">
+          <img
+            src="images/migaku/migaku_main_image.png"
+            alt="磨きの町のラーメン屋 味我駆"
+            width="1200"
+            height="500"
+          />
+        </div>
+      </header>
+
+      <article>
+        <section>
+          <div class="migaku">
+            <ul class="flex-list-migaku">
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu1.png"
+                  alt="背脂中華"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu2.png"
+                  alt="魚介醤油"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu3.png"
+                  alt="wチャーシュー"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu4.png"
+                  alt="味噌"
+                  width="220"
+                  height="410"
+                />
+              </li>
+            </ul>
+            <ul class="flex-list-migaku">
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu5.png"
+                  alt="丸鶏塩"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <!--
+		<li class="menulayout"><img src="images/migaku/migaku_menu6.png" alt="極つけ麺" width="220" height="410"></li>
+		<li class="menulayout"><img src="images/migaku/migaku_menu7.png" alt="辛つけ麺" width="220" height="410"></li>
+-->
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu8.png"
+                  alt="トッピング"
+                  width="220"
+                  height="410"
+                />
+              </li>
+            </ul>
+            <ul class="flex-list-migaku">
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu9.png"
+                  alt="ご飯類"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu10.png"
+                  alt="セットメニュー"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu11.png"
+                  alt="単品"
+                  width="220"
+                  height="410"
+                />
+              </li>
+              <li class="menulayout">
+                <img
+                  src="images/migaku/migaku_menu12.png"
+                  alt="ドリンク"
+                  width="220"
+                  height="410"
+                />
+              </li>
+            </ul>
+            <br />
+            <p>※メニュー価格は全て税込となっております。</p>
+          </div>
+        </section>
+
+        <section>
+          <ul class="flex-list-bana">
+            <a href="/migaku_staff"
+              ><img
+                src="images/migaku/migaku_staff_bana.png"
+                alt="スタッフ募集"
+                width="450"
+                height="154"
+            /></a>
+          </ul>
+        </section>
+
+        <div class="contents2"></div>
+
+        <div class="contents3"></div>
+      </article>
+
+      <hr class="style-two" />
+
+      <nav class="bottomnav">
+        <a href="http://niigata-food-g.com">▶ 新潟の四季 風土</a>
+        <a href="/migaku_access">▶ ラーメン味我駆へのアクセス</a>
+        <a href="/migaku_staff">▶ スタッフ募集</a>
+      </nav>
+    </div>
+
+    <!--#include virtual="/include/mgk_foot.html"-->
+  </body>
+</html>

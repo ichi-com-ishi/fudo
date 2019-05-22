@@ -1,0 +1,174 @@
+<!doctype html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <title>新潟の四季　風土｜公式ページ 大規模宴会可</title>
+    <link rel="canonical" href="http://niigata-food-g.com/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <script type="application/ld+json">
+    {
+      "@context":"http://schema.org",
+      "@type":"Restaurant",
+      "name":"新潟の四季 風土",
+      "address":{
+        "@type":"PostalAddress",
+        "streetAddress":"上須頃789-1",
+        "addressLocality":"三条市",
+        "addressRegion":"新潟県",
+        "postalCode":"955-0091",
+        "addressCountry":"JP"
+      },
+      "geo":{
+        "@type":"GeoCoordinates",
+        "latitude":37.646481,
+        "longitude":138.935972
+      },
+      "url":"http://niigata-food-g.com/",
+      "telephone":"+818087081172",
+      "openingHoursSpecification":[
+        {
+          "@type":"OpeningHoursSpecification",
+          "dayOfWeek":[
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens":"17:00",
+          "closes":"23:00"
+        }
+      ],
+      "menu":"http://niigata-food-g.com/menu",
+      "acceptsReservations":"True",
+      "image":"http://niigata-food-g.com/images/top/main_image.png",
+      "priceRange":"$$",
+      "servesCuisine":"和食",
+      "potentialAction":{
+       "@type":"ReserveAction",
+       "target":{
+         "@type":"EntryPoint",
+         "urlTemplate":"http://niigata-food-g.com/",
+         "inLanguage":"ja-JP",
+         "actionPlatform":[
+           "http://schema.org/IOSPlatform",
+           "http://schema.org/AndroidPlatform"
+         ]
+       },
+       "result":{
+         "@type":"FoodEstablishmentReservation",
+         "name":"Reserve table"
+       }
+     }
+    }
+    </script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <style amp-custom>
+			body{background-color:#0b2c67;}
+      ul{list-style: none;padding: 0;}
+      footer{color:#fff;font-size: x-small;}
+      #wrap{background-color:#fff;margin: 0 1%}
+      .globalNav{font-size: x-small;}
+      .globalNav>ul{display: flex;justify-content:center;}
+      .gnavstyle,.gnavstyle2{border-left: 1px solid #0b2c67;border-bottom: 3px double #0b2c67;padding: .2em .5em;}
+      .gnavstyle2{border-right: 1px solid #0b2c67;}
+      .bottomnav{font-size: x-small;display:flex;justify-content:space-around;}
+      .tel-bnr{max-width: 80%;margin: 0 auto;}
+      section{padding: 1em;}
+      ul.flex-list li{width:48%;}
+      .flex-list{display: flex;justify-content:space-between;}
+		</style>
+  </head>
+<body>
+
+  <div id="wrap">
+  <header>
+    <amp-carousel type="slides" autoplay loop width="1200" height="500" layout="responsive" delay="3000">
+    	<amp-img src="/images/top/main_image.png" width="1200" height="500" layout="responsive"></amp-img>
+    	<amp-img src="/images/top/main_image2.png" width="1200" height="500" layout="responsive"></amp-img>
+    	<amp-img src="/images/top/main_image3.png" width="1200" height="500" layout="responsive"></amp-img>
+    	<amp-img src="/images/top/main_image4.png" width="1200" height="500" layout="responsive"></amp-img>
+    </amp-carousel>
+
+
+  <!--#include virtual="/include/gnav.txt"-->
+
+  </header>
+
+  <article>
+
+  <div class="tel-bnr">
+    <a href="tel:08087081172">
+      <amp-img
+       	alt="新潟の四季風土のご予約はこちらから 080-8708-1172"
+      	src="/images/top/tel_bnr.png"
+       	width="945"
+       	height="90"
+       	layout="responsive">
+      </amp-img>
+    </a>
+  </div>
+
+  <section>
+  	<ul class="flex-list">
+  		<li><amp-img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180" layout="responsive"></amp-img></li>
+  		<li><amp-img src="images/top/top-box_main_couse2.png?190415" alt="新潟の四季風土の飲み放題コース" width="450" height="180" layout="responsive"></amp-img></li>
+  	</ul>
+    <ul class="flex-list">
+  		<li><a href="/menu"><amp-img src="images/top/top-box_main_menu.png?190415" alt="新潟の四季風土のお料理" width="450" height="180" layout="responsive"></amp-img></a></li>
+  		<li><a href="/drink"><amp-img src="images/top/top-box_main_drink.png?190415" alt="新潟の四季風土のドリンク" width="450" height="180" layout="responsive"></amp-img></a></li>
+  	</ul>
+  </section>
+
+  <section>
+  	<ul class="flex-list">
+  		<li><a href="/staff"><amp-img src="images/top/staff_bana.png?190415" alt="新潟の四季 風土のスタッフ募集" width="450" height="154" layout="responsive"></amp-img></a></li>
+  		<li><a href="http://niigata-food-g.com/migaku"><amp-img src="images/top/migaku_bana.png?190415" alt="新潟の四季 風土の姉妹店ラーメン味我駆みがく" width="450" height="154" layout="responsive"></amp-img></a></li>
+  	</ul>
+  </section>
+
+  </article>
+
+  <hr class="style-two">
+
+  <nav class="bottomnav">
+  <a href="/">&#x25B6; ホーム</a>
+  <a href="/menu">&#x25B6; お料理</a>
+  <a href="/drink">&#x25B6; ドリンク</a>
+  <a href="/access">&#x25B6; アクセス</a>
+  <a href="http://niigata-food-g.com/migaku">&#x25B6; 姉妹店ラーメン味我駆</a>
+  </nav>
+
+  </div>
+
+  <footer>
+  <div class="footerinfo">
+  <p>
+  新潟の四季　風土　<strong>TEL.0256-64-8062</strong>　新潟県三条市上須頃789-1<br>
+  <span>予約専用電話：<strong><a href="tel:08087081172" style="color:#fff; text-decoration: none;">TEL.080-8708-1172</a></strong></span><br><br>
+  営業時間<br>
+  17：00−23：00　（ラストオーダー22:30）　定休日　日曜<br>
+  </p>
+  </div>
+  <address>Copyright &copy; 新潟の四季 風土 Allright Reserved.</address>
+  </footer>
+
+  <amp-analytics type="gtag" data-credentials="include">
+  <script type="application/json">
+  {
+    "vars" : {
+      "gtag_id": "UA-97205272-1",
+      "config" : {
+        "UA-97205272-1": { "groups": "default" }
+      }
+    }
+  }
+  </script>
+  </amp-analytics>
+
+</body>
+</html>

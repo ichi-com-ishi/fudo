@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="燕三条の洋食居酒屋　県央バルぱぷりか デザートメニューのご紹介。 ランチやディナー、結婚式の二次会や貸切パーティーまで幅広く対応いたします。" />
+<title>燕三条の洋食居酒屋　県央バルぱぷりか｜デザートメニュー</title>
+<meta name="keywords" content="ぱぷりか,県央,バル,燕,三条,結婚式,二次会,パーティー,パプリカ,デザート" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+<header>
+    <div id="mainimg">
+    	<img src="images/top/page_image_dessert.png" alt="県央バルぱぷりかデザート" width="1200" height="200">
+    </div>
+<!--#include virtual="/include/gnav.txt"-->
+</header>
+
+<article>
+<section>
+	<ul class="flex-list-menu">
+		<li class="menulayout"><img src="images/dessert/dessert_image_yoguruto-waffuru.png" alt="ヨーグルトベリーワッフル" width="" height=""><p>ヨーグルトベリーワッフル<br>630円</p></li>
+		<li class="menulayout"><img src="images/dessert/dessert_image_minichyocoratopafe.png" alt="ミニチョコレートパフェ" width="" height=""><p>ミニチョコレートパフェ<br>330円</li>
+		<li class="menulayout"><img src="images/dessert/dessert_image_miniogurapafe.png" alt="ミニ小倉パフェ" width="" height=""><p>ミニ小倉パフェ<br>330円</p></li>
+		<li class="menulayout"><img src="images/dessert/dessert_image_miniyogurutopafe.png" alt="ミニヨーグルトパフェ" width="" height=""><p>ミニヨーグルトパフェ<br>330円</p></li>
+	</ul>
+	<ul class="flex-list-menu2">
+		<li class="menulayout"><img style="box-shadow: 5px 5px 7px rgba(0,0,0,0.4);" src="images/dessert/dessert_image_minichizukurepu.png" alt="ミニチーズクレープ" width="" height=""><p>ミニチーズクレープ<br>330円</p></li>
+		<li class="menulayout"><img style="box-shadow: 5px 5px 7px rgba(0,0,0,0.4);" src="images/menu/menu_image_minibananakurepu.png" alt="ミニバナナクレープ" width="" height=""><p>ミニバナナクレープ<br>330円</p></li>
+		<li class="menulayout"><img src="images/menu/menu_image_none.png" alt="" width="" height=""></li>
+		<li class="menulayout"><img src="images/menu/menu_image_none.png" alt="" width="" height=""></li>
+	</ul>
+<div id="grandmenuitem">
+	<ul class="grandmenu-menu">
+		<li class="grandmenulayout"><p>・ アップルパイ　…　420円</p></li>
+		<li class="grandmenulayout"><p>・ チーズケーキ　…　330円</p></li>
+		<li class="grandmenulayout"><p>・ ミニアイスクレープ(バニラorヨーグルト)　…　330円</p></li>
+		<li class="grandmenulayout"><p>・ パティシエのきまぐれケーキ　…　420円</p></li>
+		<li class="grandmenulayout"><p>・ 本日のドルチェ盛合せ　…　990円</p></li>
+		<li class="grandmenulayout"><p>・ アイスブリュレ　…　330円</p></li>
+		<li class="grandmenulayout"><p>　</p></li>
+		<li class="grandmenulayout"><p>※メニュー価格は全て税別となっております。</p></li>
+	</ul>
+</div>
+</section>
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+</body>
+</html>

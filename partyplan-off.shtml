@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="燕三条の洋食居酒屋　県央バルぱぷりか 貸切パーティープラン。結婚式の二次会にも幅広く対応いたします。まずは、お電話下さい。ご予約お待ちしております。" />
+<title>燕三条の洋食居酒屋　県央バルぱぷりか｜二次会などに最適なパーティープラン</title>
+<meta name="keywords" content="ぱぷりか,県央バル,県央バルぱぷりか,燕三条,県央,結婚式,二次会,パーティー,パプリカ,ランチ" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/gnav.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+<header>
+    <div id="mainimg">
+    	<img src="images/top/page_image_party.png" alt="県央バルぱぷりかの結婚式の二次会パーティ、貸切パーティプラン" width="1200" height="200">
+    </div>
+<!--#include virtual="/include/gnav.txt"-->
+</header>
+
+<article>
+<section>
+	<video controls autoplay loop muted>
+		<source src="images/movie/S_5593019482883_2.mp4">
+	</video>
+	<div id="partyplan1">
+		<img src="images/plan/partyplan.png" alt="県央バルぱぷりかの結婚式の二次会パーティ、貸切パーティプラン" width="600" height="600">
+	</div>
+
+</section>
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+</body>
+</html>

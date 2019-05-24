@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="amphtml" href="http://niigata-food-g.com/index_amp">
+<title>新潟の四季　風土｜公式ページ 大規模宴会可</title>
+<meta name="description" content="少人数宴会から多人数の貸切り宴会まで幅広く使えるお店です♪ 合計１１０を超えるドリンクが選べます！ まずは、お電話下さい。ご予約お待ちしております。" />
+<meta name="keywords" content="新潟の四季,風土,ふうど,フウド,燕三条,県央,結婚式,二次会,パーティー" />
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/gnav.css" rel="stylesheet" type="text/css">
+<link href="css/jquery.bxslider.min.css" rel="stylesheet" type="text/css">
+<!--#include virtual="/include/g_anal.txt"-->
+</head>
+
+<body style="background-color: #0b2c67;">
+<div id="wrap">
+
+<header>
+
+	<ul class="bxslider">
+		<li><h1><img src="images/top/main_image.png?190415" alt="「新潟の四季 風土」新潟県の季節の食材を使った県央の風土を感じる燕三条の居酒屋です。" width="1200" height="500" /></h1></li>
+	  <li><h2><img src="images/top/main_image1.png?190415" alt="「新潟の四季 風土」春の食材を新潟で味わう。" width="1200" height="500" /></h2></li>
+	  <li><h2><img src="images/top/main_image2.png?190415" alt="「新潟の四季 風土」夏の新潟を燕三条で味わう。" width="1200" height="500" /></h2></li>
+	  <li><h2><img src="images/top/main_image3.png?190415" alt="「新潟の四季 風土」秋の県央で越後平野の味覚を堪能しよう。" width="1200" height="500" /></h2></li>
+	  <li><h2><img src="images/top/main_image4.png?190415" alt="「新潟の四季 風土」冬の厳しい季節も新潟のお酒で楽しいひと時に。" width="1200" height="500" /></h2></li>
+	</ul>
+
+<!--#include virtual="/include/gnav.txt"-->
+
+</header>
+
+<article>
+
+<div class="tel-bnr">
+  <a href="tel:08087081172"><img src="images/top/tel_bnr.png" alt="新潟の四季風土のご予約はこちらから 080-8708-1172"></a>
+</div>
+
+<section>
+	<ul class="flex-list">
+		<!-- <li><img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180"></li> -->
+		<img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180">
+		<li><a href="/plan"><img src="images/top/top-box_main_couse2.png?190415" alt="新潟の四季風土の飲み放題コース" width="450" height="180"></a></li>
+	</ul>
+  <ul class="flex-list">
+		<li><a href="/menu"><img src="images/top/top-box_main_menu.png?190415" alt="新潟の四季風土のお料理" width="450" height="180"></a></li>
+		<li><a href="/drink"><img src="images/top/top-box_main_drink.png?190415" alt="新潟の四季風土のドリンク" width="450" height="180"></a></li>
+	</ul>
+</section>
+
+<section>
+	<ul class="flex-list-bana">
+		<li><a href="/staff"><img src="images/top/staff_bana.png?190415" alt="新潟の四季 風土のスタッフ募集" width="450" height="154"></a></li>
+		<li><a href="http://niigata-food-g.com/migaku"><img src="images/top/migaku_bana.png?190415" alt="新潟の四季 風土の姉妹店ラーメン味我駆みがく" width="450" height="154"></a></li>
+	</ul>
+</section>
+
+</article>
+
+<hr class="style-two">
+
+<!--#include virtual="/include/pap_foot.html"-->
+
+<script type="application/ld+json">
+[
+{
+  "@context":"http://schema.org",
+  "@type":"Restaurant",
+  "name":"新潟の四季 風土",
+  "address":{
+    "@type":"PostalAddress",
+    "streetAddress":"上須頃789-1",
+    "addressLocality":"三条市",
+    "addressRegion":"新潟県",
+    "postalCode":"955-0091",
+    "addressCountry":"JP"
+  },
+  "geo":{
+    "@type":"GeoCoordinates",
+    "latitude":37.646481,
+    "longitude":138.935972
+  },
+  "url":"http://niigata-food-g.com/",
+  "telephone":"+818087081172",
+  "openingHoursSpecification":[
+    {
+      "@type":"OpeningHoursSpecification",
+      "dayOfWeek":[
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens":"17:00",
+      "closes":"23:00"
+    }
+  ],
+  "menu":"http://niigata-food-g.com/menu",
+  "acceptsReservations":"True",
+  "image":"http://niigata-food-g.com/images/top/main_image.png",
+  "priceRange":"$$",
+  "servesCuisine":"和食",
+  "potentialAction":{
+   "@type":"ReserveAction",
+   "target":{
+     "@type":"EntryPoint",
+     "urlTemplate":"http://niigata-food-g.com/",
+     "inLanguage":"ja-JP",
+     "actionPlatform":[
+       "http://schema.org/IOSPlatform",
+       "http://schema.org/AndroidPlatform"
+     ]
+   },
+   "result":{
+     "@type":"FoodEstablishmentReservation",
+     "name":"Reserve table"
+   }
+ }
+},
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [ {
+		"@type": "ListItem",
+		"position": 1,
+		"item": {
+			"@id": "niigata-food-g.com/",
+			"name": "新潟の四季 風土｜公式ページ　大規模宴会可"
+		}
+	}
+ ]
+}
+]
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
+<script>
+$(function(){
+  $('.bxslider').bxSlider({
+    auto: true,
+	pager: false,
+	controls: true,
+	pause: 5000,
+	speed: 500,
+	prevText: '<',
+	nextText: '>'
+  });
+});
+</script>
+</body>
+</html>

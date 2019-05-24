@@ -15,7 +15,7 @@
 <div id="wrap">
 <header>
     <div id="mainimg">
-    	<h1><img src="images/top/page_image_grandmenu.png" alt="「新潟の四季 風土」のお料理メニュー" width="1200" height="200"></h1>
+    	<h1><img src="images/top/page_image_grandmenu2.png" alt="「新潟の四季 風土」のお料理メニュー" width="1200" height="200"></h1>
     </div>
 <!--#include virtual="/include/gnav.txt"-->
 </header>
@@ -23,7 +23,7 @@
 <article>
 <section>
 	<ul class="flex-list-menu2">
-		<li class="menulayout"><img src="images/menu/grandmenu_fish.png" alt="「魚」出雲崎や寺泊をはじめ全国漁港直送の鮮魚盛り合わせ！" width="600" height="1300"></li>
+		<li class="menulayout"><img src="images/menu/grandmenu_fish2.png" alt="「魚」出雲崎や寺泊をはじめ全国漁港直送の鮮魚盛り合わせ！" width="600" height="1300"></li>
 		<li class="menulayout"><img src="images/menu/grandmenu_chicken.png" alt="「地鶏」年間生産量1000羽の希少新潟地鶏、糸魚川の翠鶏" width="600" height="1300"></li>
 	</ul>
 	<ul class="flex-list-menu2">

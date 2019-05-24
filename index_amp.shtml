@@ -116,7 +116,7 @@
   <section>
   	<ul class="flex-list">
   		<li><amp-img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180" layout="responsive"></amp-img></li>
-  		<li><amp-img src="images/top/top-box_main_couse2.png?190415" alt="新潟の四季風土の飲み放題コース" width="450" height="180" layout="responsive"></amp-img></li>
+  		<li><a href="/plan"><amp-img src="images/top/top-box_main_couse2.png?190415" alt="新潟の四季風土の飲み放題コース" width="450" height="180" layout="responsive"></amp-img></a></li>
   	</ul>
     <ul class="flex-list">
   		<li><a href="/menu"><amp-img src="images/top/top-box_main_menu.png?190415" alt="新潟の四季風土のお料理" width="450" height="180" layout="responsive"></amp-img></a></li>

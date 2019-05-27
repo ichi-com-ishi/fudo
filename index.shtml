@@ -38,8 +38,10 @@
 
 <section>
 	<ul class="flex-list">
-		<!-- <li><img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180"></li> -->
-		<li><a href="/partyplan"><img src="images/top/top-box_main_party2.png" alt="新潟の四季風土の貸切プラン" width="450" height="180"></a></li>
+		<li><img src="images/top/top-box_main_party.png?190415" alt="新潟の四季風土の貸切プラン" width="450" height="180"></li>
+
+		<!-- <li><a href="/partyplan"><img src="images/top/top-box_main_party2.png" alt="新潟の四季風土の貸切プラン" width="450" height="180"></a></li> -->
+
 		<li><a href="/plan"><img src="images/top/top-box_main_couse3.png" alt="新潟の四季風土の飲み放題コース" width="450" height="180"></a></li>
 	</ul>
   <ul class="flex-list">
